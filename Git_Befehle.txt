@@ -10,3 +10,5 @@ git commit - m "Nachricht" - erstellt einen Speicherstand (commit)
 
 git log - zeigt die commit history an 
 um aus der : ansicht zu kommen taste Q drücken
+
+git push - 
