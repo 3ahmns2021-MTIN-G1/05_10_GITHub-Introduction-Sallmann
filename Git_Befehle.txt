@@ -1,5 +1,11 @@
 git init - initialisieren eines neuen lokalen repositories
+
 git add Dateiname - fügt die definierte datei dazu ( staging area)
 git add * - fügt alle änderungen hinzu (staging area)
+
 git config --global user.name "JanineSallmann"
-git config --global user.email "email"
+git config --global user.email "sallmann37@gmail.com"
+
+git commit - m "Nachricht" - erstellt einen Speicherstand (commit)
+
+git log - zeigt die commit history an 
