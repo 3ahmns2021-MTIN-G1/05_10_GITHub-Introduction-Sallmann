@@ -1,0 +1,1 @@
+git init - initialisieren eines neuen lokalen repositories
